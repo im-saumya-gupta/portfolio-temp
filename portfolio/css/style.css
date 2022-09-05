@@ -1,0 +1,50 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+#portfolio-section{
+    background-color: #d1ecff;
+    padding-top: 10rem;
+    padding-bottom: 10rem;
+
+}
+.card-container{
+    background-color: transparent !important;
+    border: none !important;
+}
+
+/* Left container start */
+.sub-heading{
+    border-radius: 1.5rem !important;
+}
+
+.heading{
+    font-weight: 15rem;
+    font-size:3rem;
+}
+
+#btn-hire{
+    width: auto !important;
+    border-radius: 1rem;
+}
+
+#btn-hire:hover{
+    background-color: white;
+    width: auto !important;
+    border-radius: 1rem;
+    color:blue
+}
+
+/* Left container end */
+
+/* Right container start */
+
+.media-img{
+    width: 80px;
+    height:80px;
+    padding:15px;
+    border-radius:  100px;
+    background-color: white;
+}
+
+/* Right container end */
